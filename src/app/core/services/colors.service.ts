@@ -15,7 +15,7 @@ export class ColorsService {
         orange:     '#f56a00',
         purple:     '#7265e6',
         yellow:     '#ffbf00',
-        cyan:       '#00a2ae',
+        cyan:       '#1ab394',
         teal:       '#20C997',
         grey:       '#bfbfbf'
     };
